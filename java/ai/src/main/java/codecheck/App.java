@@ -8,6 +8,5 @@ public class App {
                 return;
             }
         }
-        System.out.println("string not found");
 	}
 }
