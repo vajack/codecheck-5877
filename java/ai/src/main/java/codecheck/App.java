@@ -8,6 +8,6 @@ public class App {
                 return;
             }
         }
-        return;
+        System.exit(1);
 	}
 }
